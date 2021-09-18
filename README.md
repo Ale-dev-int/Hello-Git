@@ -4,8 +4,6 @@
  - 🚀Estudando Java; 
  - ✔ Meta: Me tornar Back End;
  - ⏳Interesse: Vagas Jr;
- - ⚙ Perfil Profissional: https://www.linkedin.com/in/alexandre-rodrigues-de-araujo-luz-2b8624130
- - 
-
+ - 🎯 Perfil Profissional: https://www.linkedin.com/in/alexandre-rodrigues-de-araújo-luz-2b8624130
 
 
